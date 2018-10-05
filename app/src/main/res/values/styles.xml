@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.NoActionBar">
+        <item name="coordinatorLayoutStyle">@style/Widget.Design.CoordinatorLayout</item>
+    </style>
+    
+    <style name="CollapseAppBar" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="ExpandedAppBar" parent="@android:style/TextAppearance.Material.Title">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="MeterNumberPickerStyle">
+        <item name="mnp_min">0</item>
+        <item name="mnp_max">20</item>
+        <item name="mnp_textColor">@android:color/white</item>
+        <item name="mnp_textSize">14sp</item>
+        <item name="mnp_paddingHorizontal">5dp</item>
+        <item name="mnp_paddingVertical">8dp</item>
+    </style>
+
+    <style name="MeterViewStyle">
+        <item name="mv_firstColor">@color/colorPrimaryDark</item>
+        <item name="mv_numberOfFirst">0</item>
+        <item name="mv_numberOfSecond">1</item>
+        <item name="mv_pickerStyle">@style/MeterNumberPickerStyle</item>
+        <item name="mv_secondColor">@color/colorPrimaryDark</item>
+    </style>
+
+</resources>

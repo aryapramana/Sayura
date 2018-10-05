@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sayura</string>
+    <string name="app_slogan">Sayura is mobile-based online ordering vegetables service with the goals of giving the customers option to buy any kinds of product, which is vegetables, in an easy way and save you some time with affordable delivery services.</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

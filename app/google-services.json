@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "834479252800",
+    "firebase_url": "https://sayura-d3a6f.firebaseio.com",
+    "project_id": "sayura-d3a6f",
+    "storage_bucket": "sayura-d3a6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834479252800:android:80c17bd51982e5aa",
+        "android_client_info": {
+          "package_name": "com.example.aryap.sayura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834479252800-9vooenbhv9enu1lomo7a47l4ovcb1tv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aryap.sayura",
+            "certificate_hash": "3bb779dd9c5d307504f927b2c817c8fadccc333d"
+          }
+        },
+        {
+          "client_id": "834479252800-iufrvigirufekspjk65gj5ahltsctobq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDnR162c_cxQCAHv79Cyh5IkgfC-maWVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834479252800-iufrvigirufekspjk65gj5ahltsctobq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
