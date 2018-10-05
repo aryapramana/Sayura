@@ -12,8 +12,6 @@ public class Users {
     public Users(String name, String password) {
         this.name = name;
         this.password = password;
-
-        // at 4:49
     }
 
     public String getName() {
